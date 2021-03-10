@@ -7,7 +7,6 @@
 
   body {
     padding-top: 3rem;
-    padding-bottom: 3rem;
     font-family: Arial, Helvetica, sans-serif;
     
   }
@@ -54,6 +53,24 @@
     color: #144a87;
     font-size: 1.2rem;
     font-weight: bold;
+  }
+ .marketingheading{
+   margin-top: 10px;
+    color: #144a87; 
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .marketing p{
+    color:gray;
+    font-size: 1rem;
+  }
+  .footer{
+    width:100%;
+    background-color: #144a87;
+    color: white;
+  }
+  .featurette{
+    margin-bottom: 3rem
   }
 
   
