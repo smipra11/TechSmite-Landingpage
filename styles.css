@@ -72,6 +72,44 @@
   .featurette{
     margin-bottom: 3rem
   }
+  .abputpage{
+    margin-top: 30px;
+  }
+.aboutpage h2{
 
+    color: #144a87; 
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.keyarea i{
+  font-size: 50px;
+  color:#144a87; 
+}
+.map{
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.map i {
+  font-size: 50px;
+  color:#144a87; 
+
+}
+.address{
+  margin-top: 2rem;
+}
+.contact{
+  
+  color:gray;
+    font-size: 1rem;
+
+}
+.contact h3{
+  font-size: 20px;
+  font-weight:bold;
+  color:#144a87;
+  margin-bottom: 20px; 
+}
   
   
